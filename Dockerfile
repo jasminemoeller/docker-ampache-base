@@ -1,5 +1,5 @@
 FROM jgoerzen/debian-base-apache-php:bullseye
-MAINTAINER John Goerzen <jgoerzen@complete.org>
+LABEL org.opencontainers.image.authors="Jasmine Möller <mail@jasmine-moeller.de>"
 RUN mv /usr/sbin/policy-rc.d.disabled /usr/sbin/policy-rc.d
 RUN apt-get update && \
     apt-get -y --no-install-recommends install php-mysql php-xml \
