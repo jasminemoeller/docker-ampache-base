@@ -1,13 +1,11 @@
 # Ampache Music Server
 
 Private fork of [jgoerzen/ampache](https://salsa.debian.org/jgoerzen/docker-ampache-base) that tries to stay up to date with with the current ampache version.
+
+There are no docker images for this fork, you need to build the image yourself
    
 This image provides the Ampache server, with full support for transcoding
 on the fly.
-
-You can download with:
-
-    docker pull jgoerzen/ampache-mysql
 
 And run with something like this:
 
