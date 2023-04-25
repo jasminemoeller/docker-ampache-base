@@ -1,6 +1,6 @@
 # Ampache Music Server
 
-Private fork of [jgoerzen/ampache](https://salsa.debian.org/jgoerzen/docker-ampache-base) that tries to stay up to date with with the current ampache version.
+Fork of [jgoerzen/ampache](https://salsa.debian.org/jgoerzen/docker-ampache-base) that tries to stay up to date with with the current ampache version.
 
 There are no docker images for this fork, you need to build the image yourself
    
