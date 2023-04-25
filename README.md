@@ -56,7 +56,7 @@ can be found at https://github.com/jgoerzen/docker-ampache
 # Copyright
 
 Docker scripts, etc. are
-Copyright (c) 2017-2022 John Goerzen
+Copyright (c) 2017-2023 John Goerzen, Jasmine Möller
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
